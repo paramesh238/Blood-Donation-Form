@@ -1,0 +1,25 @@
+.ctn{
+    /* background-color: rgb(176, 184, 239); */
+    /* background-image: url("./images/bg_image.jpg"); */
+    background-image: url("./asserts/bg_image3.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.mdiv{
+    margin-left: 190px; 
+}
+
+#btn-submit{
+    text-align: center;
+    align-items: center;
+}
+
+div > .title {
+    text-align: center;
+    margin: 15px 0px;
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+}
